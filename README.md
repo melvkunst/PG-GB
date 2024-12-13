@@ -1,4 +1,4 @@
-# Processamento Gráfico 2024/2 - Melissa Viana Kunst e Luiz Felipe Giacobbo
+# Processamento Gráfico 2024/2 - Grau B - Melissa Viana Kunst e Luiz Felipe Giacobbo
 
 ## Instruções para o uso:
 1. Clonar o repositório.
