@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/mellk/source/repos/FCG2024-2/build/glm",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/glm_dummy.dir/includes_CXX.rsp -g   -pedantic -O2 -o CMakeFiles\\glm_dummy.dir\\detail\\dummy.cpp.obj -c C:\\Users\\mellk\\source\\repos\\FCG2024-2\\Dependencies\\glm\\glm\\detail\\dummy.cpp",
+  "file": "C:/Users/mellk/source/repos/FCG2024-2/Dependencies/glm/glm/detail/dummy.cpp",
+  "output": "glm/CMakeFiles/glm_dummy.dir/detail/dummy.cpp.obj"
+},
+{
+  "directory": "C:/Users/mellk/source/repos/FCG2024-2/build/glm",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -D_CRT_SECURE_NO_WARNINGS @CMakeFiles/glm_dummy.dir/includes_CXX.rsp -g   -pedantic -O2 -o CMakeFiles\\glm_dummy.dir\\detail\\glm.cpp.obj -c C:\\Users\\mellk\\source\\repos\\FCG2024-2\\Dependencies\\glm\\glm\\detail\\glm.cpp",
+  "file": "C:/Users/mellk/source/repos/FCG2024-2/Dependencies/glm/glm/detail/glm.cpp",
+  "output": "glm/CMakeFiles/glm_dummy.dir/detail/glm.cpp.obj"
+}
+]

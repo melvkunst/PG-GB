@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mellk\\source\\repos\\FCG2024-2\\Spites-VS2022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9881DBC9-7E6D-4CF1-8F0D-D91BC02B06E5}|Spites-VS2022.vcxproj|C:\\Users\\mellk\\source\\repos\\FCG2024-2\\Spites-VS2022\\Sprites.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9881DBC9-7E6D-4CF1-8F0D-D91BC02B06E5}|Spites-VS2022.vcxproj|solutionrelative:Sprites.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9881DBC9-7E6D-4CF1-8F0D-D91BC02B06E5}|Spites-VS2022.vcxproj|C:\\Users\\mellk\\source\\repos\\FCG2024-2\\Dependencies\\stb_image\\stb_image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stb_image.cpp",
+              "DocumentMoniker": "C:\\Users\\mellk\\source\\repos\\FCG2024-2\\Dependencies\\stb_image\\stb_image.cpp",
+              "RelativeDocumentMoniker": "..\\Dependencies\\stb_image\\stb_image.cpp",
+              "ToolTip": "C:\\Users\\mellk\\source\\repos\\FCG2024-2\\Dependencies\\stb_image\\stb_image.cpp",
+              "RelativeToolTip": "..\\Dependencies\\stb_image\\stb_image.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T00:44:39.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sprites.cpp",
+              "DocumentMoniker": "C:\\Users\\mellk\\source\\repos\\FCG2024-2\\Spites-VS2022\\Sprites.cpp",
+              "RelativeDocumentMoniker": "Sprites.cpp",
+              "ToolTip": "C:\\Users\\mellk\\source\\repos\\FCG2024-2\\Spites-VS2022\\Sprites.cpp",
+              "RelativeToolTip": "Sprites.cpp",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAAN8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T23:44:12.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

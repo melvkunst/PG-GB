@@ -1,0 +1,41 @@
+﻿  Sprites.cpp
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(92,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(337,21): warning C4244: '=': conversão de 'GLuint' para 'GLfloat', possível perda de dados
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(349,18): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(350,18): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(392,15): warning C4244: '=': conversão de 'GLuint' para 'GLfloat', possível perda de dados
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(399,26): warning C4244: 'argumento': conversão de 'GLfloat' para 'GLuint', possível perda de dados
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(400,37): warning C4244: 'argumento': conversão de 'GLfloat' para 'GLuint', possível perda de dados
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(423,12): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(518,10): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(520,10): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(524,42): warning C4244: '=': conversão de 'int' para 'T', possível perda de dados
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(524,42): warning C4244:         with
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(524,42): warning C4244:         [
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(524,42): warning C4244:             T=float
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(524,42): warning C4244:         ]
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(534,28): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(537,28): warning C4244: '-=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(560,31): warning C4244: '=': conversão de 'double' para 'T', possível perda de dados
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(560,31): warning C4244:         with
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(560,31): warning C4244:         [
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(560,31): warning C4244:             T=float
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(560,31): warning C4244:         ]
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(561,31): warning C4244: '=': conversão de 'double' para 'T', possível perda de dados
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(561,31): warning C4244:         with
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(561,31): warning C4244:         [
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(561,31): warning C4244:             T=float
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(561,31): warning C4244:         ]
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(564,31): warning C4244: '=': conversão de 'double' para 'T', possível perda de dados
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(564,31): warning C4244:         with
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(564,31): warning C4244:         [
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(564,31): warning C4244:             T=float
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(564,31): warning C4244:         ]
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(565,31): warning C4244: '=': conversão de 'double' para 'T', possível perda de dados
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(565,31): warning C4244:         with
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(565,31): warning C4244:         [
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(565,31): warning C4244:             T=float
+C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\Sprites.cpp(565,31): warning C4244:         ]
+  Spites-VS2022.vcxproj -> C:\Users\mellk\source\repos\FCG2024-2\Spites-VS2022\x64\Debug\Spites-VS2022.exe
+  'pwsh.exe' não é reconhecido como um comando interno
+  ou externo, um programa operável ou um arquivo em lotes.
