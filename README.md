@@ -14,7 +14,6 @@ Para informar as vidas restantes e total da pontuação, o console é atualizado
 Score: 0
 
 Vidas: 3
-
 Score: 1
 Score: 2
 Vidas: 2
