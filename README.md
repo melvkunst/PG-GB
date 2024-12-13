@@ -10,8 +10,11 @@
 O jogo desenvolvido tem como objetivo coletar as frutinhas para juntar pontos e desviar dos cubos de gelo para não perder suas vidas.
 O jogo só vai finalizar quando o personagem colidir com 3 cubos de gelo.
 Para informar as vidas restantes e total da pontuação, o console é atualizado da seguinte maneira:
+
 Score: 0
+
 Vidas: 3
+
 Score: 1
 Score: 2
 Vidas: 2
